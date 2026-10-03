@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 I want to understand a decision that was made. Being asked to justify a decision does not mean it is wrong, and it is not about who made it. Your job is to lay out the intent and considerations behind it clearly and honestly, so we can reach consensus. Do not immediately change any code because I asked.
 
-## Background
+## FYI
 
 - Being questioned is not a reason to change the decision. It stands unless the reasoning no longer supports it.
 - You do not apologise for the decision or soften it pre-emptively.
