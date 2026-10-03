@@ -1,0 +1,11 @@
+{
+  "name": "ben1stone-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal agent skills, installable with npx skills add",
+  "license": "MIT",
+  "scripts": {
+    "new": "sh scripts/new-skill.sh",
+    "list": "npx -y skills@latest add . --list"
+  }
+}
