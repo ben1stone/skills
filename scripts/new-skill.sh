@@ -17,5 +17,5 @@ if [ -e "$dest" ]; then
 fi
 
 mkdir -p "$dest"
-sed "s/{{name}}/$name/g" "$root/template/SKILL.md" > "$dest/SKILL.md"
+sed "s/{{name}}/$name/g" "$root/template/SKILL.template.md" > "$dest/SKILL.md"
 echo "Created skills/$name/SKILL.md"

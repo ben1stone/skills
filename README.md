@@ -19,7 +19,7 @@ npx skills add https://github.com/ben1stone/skills/tree/v0.1.0
 ## Add a skill
 
 ```bash
-npm run new -- my-skill   # creates skills/my-skill/SKILL.md from template/
+npm run new -- my-skill   # creates skills/my-skill/SKILL.md from the template
 npm run list              # check the CLI finds it
 ```
 

@@ -1,0 +1,4 @@
+# Skills installed locally with npx skills add
+.agents/
+.claude/
+skills-lock.json
