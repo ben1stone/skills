@@ -1,5 +1,5 @@
 ---
-name: {{name}}
+name: "template"
 description: What this skill does and when the agent should use it. Be specific about triggers.
 ---
 
